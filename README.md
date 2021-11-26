@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @truongbylaclam
+<h1>👋 Hi, My name is Truong </h1> 
 - 👀 I’m interested in Deep learning, neural network, 
 - 🌱 I’m currently learning Python, Pytorch, C++ and C#
 - 💞️ I’m looking to collaborate on deep learning model, image recognition, sounds recognition
