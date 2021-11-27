@@ -9,12 +9,15 @@
   
 <table style="width:100%">
   <tr>
-    <th>Full Stack</th>
-    <th>Machine Learning</th>
-    <th></th>
+    <th> Skill </th>
+    <th> Proficiency </th>
   </tr>
   <tr>
+    <th>Full Stack</th>
     <td>Using frontend frame work like Bootstrap along with NodeJS and backend framework like MongoDB</td>
+  </tr>
+  <tr>
+    <th>Machine Learning</th>
     <td>Using Pytorch and numpy to stimulate machine learning model</td>
     <td>Linus</td>
   </tr>
