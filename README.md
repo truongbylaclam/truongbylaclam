@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/truongbylaclam](https://github.com/truongbylaclam)
 
-- 💬 Ask me about **Reacgt**
+- 💬 Ask me about **React, Javascript**
 
 - 📫 How to reach me **truongbylaclam@gmail.com**
 
