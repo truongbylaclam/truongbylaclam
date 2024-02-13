@@ -6,7 +6,8 @@
 <p align="left"> <a href="https://twitter.com/ryandic90835590" target="blank"><img src="https://img.shields.io/twitter/follow/ryandic90835590?logo=twitter&style=for-the-badge" alt="ryandic90835590" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/truongbylaclam](https://github.com/truongbylaclam)
-
+  Still have a lot more projects on the way
+  
 - 💬 Ask me about **React, Javascript**
 
 - 📫 How to reach me **truongbylaclam@gmail.com**
