@@ -1,20 +1,24 @@
-<h1 align="center">Hi 👋, I'm Truong</h1>
-<h3 align="center">A passionate frontend dev</h3>
+<h1 align="center">Hello, This is Truong. You can call me Ryan</h1>
+<h3 align="center">Just a random dude on the net</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=truongbylaclam" alt="truongbylaclam" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/ryandic90835590" target="blank"><img src="https://img.shields.io/twitter/follow/ryandic90835590?logo=twitter&style=for-the-badge" alt="ryandic90835590" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/truongbylaclam](https://github.com/truongbylaclam)
-  Still have a lot more projects on the way
+- 👨‍💻 My repositories are available at [https://github.com/truongbylaclam](https://github.com/truongbylaclam)
   
-- 💬 Ask me about **React, Javascript**
 
 - 📫 How to reach me **truongbylaclam@gmail.com**
 
 - ⚡ Fun fact **I’m more athelic than you think**
+- Current Course:
+- Complete Oracle SQL Certification Course
+- Complete Networking Fundamental Course, CCNA
+- Reading List:
+- An Intelligent Investor - Benjamin Graham
+- The Theory of Probability - B.V Gnedenko
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My Socials:</h3>
 <p align="left">
 <a href="https://twitter.com/ryandic90835590" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ryandic90835590" height="30" width="40" /></a>
 </p>
